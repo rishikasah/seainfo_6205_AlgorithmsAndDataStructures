@@ -9,7 +9,6 @@ package Week1;
 
 public class RotateLinkedList {
 
-    ListNode head;
 
     public RotateLinkedList() {
 
