@@ -1,3 +1,5 @@
+package quiz1;
+
 class SameTree {
 
   public boolean isSameTree(TreeNode p, TreeNode q) {
