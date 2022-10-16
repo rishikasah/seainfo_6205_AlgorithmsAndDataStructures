@@ -1,3 +1,5 @@
+package quiz1;
+
 class RotateArrayByK {
 
      public void rotate(int[] nums, int k) {
