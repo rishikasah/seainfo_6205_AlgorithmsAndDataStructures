@@ -1,6 +1,6 @@
 public class Question2 {
 
-    
+    // O(n)
     public void printParent(TreeNode node){
         if (node == null)
             return;
